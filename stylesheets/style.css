@@ -1,0 +1,16 @@
+h1, h2 {
+  text-decoration: underline;
+}
+
+table {
+  witdh: 1150px;
+  margin: auto;
+}
+
+table tr:nth-child(2) td:nth-child(1) {
+  width: 60%;
+}
+
+table tr:nth-child(2) td:nth-child(2) {
+  width: 40%;
+}
